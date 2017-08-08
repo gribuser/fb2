@@ -680,7 +680,7 @@ SUCH DAMAGE.
   </xs:simpleType>
   <xs:complexType name="partShareInstructionType">
     <xs:annotation>
-      <xs:documentation>Pointer to cpecific document section, explaining how to deal with it</xs:documentation>
+      <xs:documentation>Pointer to specific document section, explaining how to deal with it</xs:documentation>
     </xs:annotation>
     <xs:attribute ref="xlink:type"/>
     <xs:attribute ref="xlink:href" use="required"/>
