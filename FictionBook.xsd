@@ -125,7 +125,7 @@ SUCH DAMAGE.
                         <xs:documentation>Source URL if this document is a conversion of some other (online) document</xs:documentation>
                       </xs:annotation>
                     </xs:element>
-                    <xs:element name="src-ocr" type="textFieldType" minOccurs="0">
+                    <xs:element name="src-ocr" type="authorType" minOccurs="0">
                       <xs:annotation>
                         <xs:documentation>Author of the original (online) document, if this is a conversion</xs:documentation>
                       </xs:annotation>
